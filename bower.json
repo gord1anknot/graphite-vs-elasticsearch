@@ -1,7 +1,8 @@
 {
   "name": "graphite-vs-elasticsearch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
-    "reveal.js": "~2.6.1"
+    "reveal.js": "~2.6.1",
+    "reveal-highlight-themes": "~8.3.0"
   }
 }

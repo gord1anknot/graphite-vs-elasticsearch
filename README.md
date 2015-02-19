@@ -12,5 +12,7 @@ git, nodejs and npm are required.
 git clone https://github.com/gord1anknot/graphite-vs-elasticsearch.git
 cd ./graphite-vs-elasticsearch
 npm install -g grunt-cli
+npm install
+bower install
 grunt serve
 ```

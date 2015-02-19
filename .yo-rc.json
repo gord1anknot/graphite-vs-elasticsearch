@@ -1,7 +1,7 @@
 {
   "generator-reveal": {
     "presentationTitle": "Graphite Vs ElasticSearch",
-    "packageVersion": "0.2.0",
+    "packageVersion": "0.2.1",
     "useSass": true,
     "deployToGithubPages": true,
     "githubUsername": "gord1anknot",
